@@ -98,6 +98,3 @@ http://127.0.0.1:8000/redoc
 | PUT | /employees/{id} | Update Employee |
 | DELETE | /employees/{id} | Delete Employee |
 
-## Author
-
-Nikita Anil Bhapkar
